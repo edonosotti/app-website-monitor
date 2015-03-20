@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Website Monitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add website</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_enable_monitoring">Enable monitoring</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_clean_history">Clean history</string>
+    <string name="action_run_boot">Run at boot</string>
+    <string name="action_run_background">Run in background</string>
+    <string name="action_set_interval">Set interval</string>
+    <string name="action_check_now">Check now</string>
+    <string name="action_docs">Help &amp; Docs</string>
+    <string name="empty_text" />
+    <string name="hello_world">Hello world!</string>
+    <string name="label_website_name">Name</string>
+    <string name="label_website_url">URL</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_enable_auth">Enable basic auth</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_accept">Accept</string>
+    <string name="button_decline">Decline</string>
+    <string name="form_validation_error">Please check the values you entered and correct errors</string>
+    <string name="data_saved">Data saved.</string>
+    <string name="not_checked_yet">not checked yet</string>
+    <string name="format_check_details" formatted="false">Response HTTP code: %s, time: %s ms</string>
+    <string name="format_date">kk:mm:ss</string>
+    <string name="checked_at">Checked at</string>
+    <string name="error_generic">An error has occurred</string>
+    <string name="notification_title">Website monitor running</string>
+    <string name="notification_text_ok">No errors</string>
+    <string name="notification_text_ko">Some errors have occurred</string>
+    <string name="notification_text_empty">No websites to check</string>
+    <string name="notification_text_network">No connection available</string>
+    <string name="confirm_delete_webstite">Delete this website?</string>
+    <string name="time_hours">Hour(s)</string>
+    <string name="time_minutes">Minute(s)</string>
+    <string name="history_length">Keep history</string>
+    <string name="accept_license">This program is distributed under the terms of the GNU General Public License version 3, as published by the Free Software Foundation. You must accept these terms to use the program.</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="title_activity_configure_website">Configure Website</string>
+    <string name="title_activity_settings">Change Settings</string>
+    <string name="title_activity_docs">Help &amp; Docs</string>
+
+</resources>
