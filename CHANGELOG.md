@@ -1,3 +1,10 @@
+# Changelog
+
+## 2017-07-05
+
+Ported the original Eclipse project to Gradle.
+
+```
 ECLIPSE ANDROID PROJECT IMPORT SUMMARY
 ======================================
 
@@ -57,3 +64,4 @@ Component-Tools.
 
 (This import summary is for your information only, and can be deleted
 after import once you are satisfied with the results.)
+```
