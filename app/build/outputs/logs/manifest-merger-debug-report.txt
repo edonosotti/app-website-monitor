@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] /Users/edoardo/.android/build-cache/4e45900383f85cf69246793b739e021ded9ec31d/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:14:22-64
+application
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:16:5-88:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/edoardo/.android/build-cache/4e45900383f85cf69246793b739e021ded9ec31d/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:17:9-57
+activity#info.edoardonosotti.apps.android.websitemonitor.MainActivity
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:30:27-74
+activity#info.edoardonosotti.apps.android.websitemonitor.WebsiteHistoryActivity
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:34:13-51
+activity#info.edoardonosotti.apps.android.websitemonitor.ConfigureWebsiteActivity
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:38:13-53
+activity#info.edoardonosotti.apps.android.websitemonitor.SettingsActivity
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:43:13-60
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:42:13-45
+activity#info.edoardonosotti.apps.android.websitemonitor.DocsActivity
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:46:13-41
+service#info.edoardonosotti.apps.android.websitemonitor.services.CheckWebsiteService
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:51:9-55:19
+	android:enabled
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:52:13-57
+receiver#info.edoardonosotti.apps.android.websitemonitor.broadcast.BootReceiver
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:58:9-65:20
+	android:enabled
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:59:13-51
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:61:13-64:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:62:17-63:26
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:62:25-76
+receiver#info.edoardonosotti.apps.android.websitemonitor.broadcast.AlarmReceiver
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:66:9-74:20
+	android:process
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:69:13-37
+	android:exported
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:67:13-52
+intent-filter#info.edoardonosotti.apps.android.websitemonitor.broadcast.AlarmReceiver.DEFAULT
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:70:13-73:29
+action#info.edoardonosotti.apps.android.websitemonitor.broadcast.AlarmReceiver.DEFAULT
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:71:17-72:26
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:71:25-119
+meta-data#AA_DB_NAME
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:77:9-79:49
+	android:value
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:79:13-46
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:78:13-38
+meta-data#AA_DB_VERSION
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:80:9-82:33
+	android:value
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:82:13-30
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:81:13-41
+meta-data#AA_MODELS
+ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:84:9-86:153
+	android:value
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:86:7-150
+	android:name
+		ADDED from /Users/edoardo/Projects/app-website-monitor/app/src/main/AndroidManifest.xml:85:7-31

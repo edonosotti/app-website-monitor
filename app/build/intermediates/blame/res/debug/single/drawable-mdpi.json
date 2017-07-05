@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_app_icon.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_app_icon.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_clean_history.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_action_clean_history.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_website.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_website.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_add2.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_action_add2.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_check_ko.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_check_ko.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_delete.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_add.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_edit.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_refresh.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_check_problem.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_check_problem.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_check_ok.png",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/drawable-mdpi/ic_check_ok.png"
+    }
+]

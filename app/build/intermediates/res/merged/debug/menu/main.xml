@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="info.edoardonosotti.apps.android.websitemonitor.MainActivity" >
+
+    <item
+        android:id="@+id/action_docs"
+        android:orderInCategory="1000"
+        android:showAsAction="never"
+        android:title="@string/action_docs" />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="999"
+        android:showAsAction="never"
+        android:title="@string/action_settings" />
+    
+    <item
+        android:id="@+id/action_run_boot"
+        android:orderInCategory="998"
+        android:showAsAction="never"
+        android:title="@string/action_run_boot"
+        android:checkable="true" 
+        android:checked="false" />
+    
+    <item
+        android:id="@+id/action_run_background"
+        android:orderInCategory="997"
+        android:showAsAction="never"
+        android:title="@string/action_run_background"
+        android:checkable="true" 
+        android:checked="true" />
+    
+    <item
+        android:id="@+id/action_enable_monitoring"
+        android:orderInCategory="996"
+        android:showAsAction="never"
+        android:title="@string/action_enable_monitoring"
+        android:checkable="true" 
+        android:checked="true" />
+    
+    <item
+        android:id="@+id/action_add"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="101"
+        android:icon="@drawable/ic_action_add2"
+        android:titleCondensed="@string/empty_text"
+        android:title="@string/action_add" />
+    
+    <item
+        android:id="@+id/action_refresh"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_action_refresh"
+        android:titleCondensed="@string/empty_text"
+        android:title="@string/action_check_now" />
+
+</menu>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/menu/website_history.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/menu/website_history.xml"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/menu/main.xml"
+    }
+]

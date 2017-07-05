@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="info.edoardonosotti.apps.android.websitemonitor.MainActivity" >
+
+    <item
+        android:id="@+id/action_docs"
+        android:orderInCategory="1000"
+        android:showAsAction="never"
+        android:title="@string/action_docs" />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="999"
+        android:showAsAction="never"
+        android:title="@string/action_settings" />
+    
+    <item
+        android:id="@+id/action_refresh"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_refresh"
+        android:titleCondensed="@string/empty_text"
+        android:title="@string/action_check_now" />
+    
+    <item
+        android:id="@+id/action_edit"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="101"
+        android:icon="@drawable/ic_action_edit"
+        android:titleCondensed="@string/empty_text"
+        android:title="@string/action_edit" />
+    
+    <item
+        android:id="@+id/action_clean_history"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_action_clean_history"
+        android:titleCondensed="@string/empty_text"
+        android:title="@string/action_clean_history" />
+    
+    <item
+        android:id="@+id/action_delete"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="103"
+        android:icon="@drawable/ic_action_delete"
+        android:titleCondensed="@string/empty_text"
+        android:title="@string/action_delete" />
+
+</menu>

@@ -1,0 +1,13 @@
+#Wed Jul 05 15:31:14 CEST 2017
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.3=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29df20cedf06bbf66b29d8d0321ba2ad1e0d30b5
+base.2=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/activeandroid-3.1.0-SNAPSHOT_88f364c9a9699e09912b885b4bfa0678551e9a52
+base.1=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_c3b6ef9ef7742f46e43462eb0a95a59d3bb41fa0
+base.0=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_a06e59d4814fea2ca04f88769d93ef7798e7d734
+file.3=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29df20cedf06bbf66b29d8d0321ba2ad1e0d30b5/classes.dex
+file.2=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/activeandroid-3.1.0-SNAPSHOT_88f364c9a9699e09912b885b4bfa0678551e9a52/classes.dex
+file.1=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_c3b6ef9ef7742f46e43462eb0a95a59d3bb41fa0/classes.dex
+file.0=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_a06e59d4814fea2ca04f88769d93ef7798e7d734/classes.dex

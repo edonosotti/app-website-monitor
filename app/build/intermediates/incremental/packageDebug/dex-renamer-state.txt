@@ -1,0 +1,7 @@
+#Wed Jul 05 15:31:14 CEST 2017
+base.0=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31c39a6207dbbea322a6aa5d7d49e0df5d480b09
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08189cbcdee75d851e1ca0517fe380e4074861f2/classes.dex
+base.1=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08189cbcdee75d851e1ca0517fe380e4074861f2
+file.0=/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31c39a6207dbbea322a6aa5d7d49e0df5d480b09/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/layout/list_monitoring_item.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/layout/list_monitoring_item.xml"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/layout/activity_configure_website.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/layout/activity_configure_website.xml"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/layout/activity_website_history.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/layout/activity_website_history.xml"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/layout/activity_docs.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/layout/activity_docs.xml"
+    },
+    {
+        "merged": "/Users/edoardo/Projects/app-website-monitor/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/edoardo/Projects/app-website-monitor/app/src/main/res/layout/activity_settings.xml"
+    }
+]
