@@ -2,7 +2,7 @@
 
 by Edoardo Nosotti (ask@edoardonosotti.info)
 http://edoardonosotti.info
-Version 1.0, March 2015
+Version 2.0, July 2017
 
 ## About
 
