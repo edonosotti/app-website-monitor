@@ -1,7 +1,5 @@
 # Website Monitor for Android devices
 
-by Edoardo Nosotti (ask@edoardonosotti.info)
-http://edoardonosotti.info
 Version 2.0, July 2017
 
 ## About
