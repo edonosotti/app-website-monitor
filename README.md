@@ -1,3 +1,6 @@
+[![codebeat badge](https://codebeat.co/badges/761cfa92-1664-43cc-8cbe-23b3d6c524ac)](https://codebeat.co/projects/github-com-edonosotti-app-website-monitor-master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/871c3d12979fde280052/maintainability)](https://codeclimate.com/github/edonosotti/app-website-monitor/maintainability)
+
 # Website Monitor for Android devices
 
 Version 2.0, July 2017
